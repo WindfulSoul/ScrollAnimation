@@ -1,3 +1,2 @@
-# scroll-animation-widget-
-HTML Only
-CSS Added
+Scroll Animation Widget Practice of HTML CSS and Javascript 
+
